@@ -1,4 +1,4 @@
-# Olá, eu sou o Gok... João! :laughing:
+# Oi, eu sou o Gok... João! :laughing:
 
 Apaixonado por programação, principalmente de aplicativos estranhos
 
